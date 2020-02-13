@@ -1,2 +1,0 @@
-# saitejagudaladesignprinciples
-Design Principles
